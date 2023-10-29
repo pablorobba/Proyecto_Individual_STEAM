@@ -1,21 +1,21 @@
 developer,year,recommend,sentiment_analysis
-07th Expansion,2015,True,0.0
-07th Expansion,2016,True,1.0
+07th Expansion,2015,1,0.0
+07th Expansion,2016,1,1.0
 11 bit studios,2014,12,9.0
 1C: Maddox Games,2006,2,2.0
 1C:InoCo,2009,0,2.0
-1C:InoCo,2011,True,2.0
+1C:InoCo,2011,1,2.0
 22cans,2016,10,20.0
 2D BOY,2008,1,3.0
 "2K Australia,Gearbox Software,Aspyr (Mac &amp; Linux)",2014,2,4.0
 "2K Australia,Gearbox Software,Aspyr (Mac and Linux)",2014,14,24.0
 "2K Boston,2K Australia",2007,2,2.0
 "2K Boston,2K Australia,Blind Squirrel,Feral Interactive (Mac)",2016,2,2.0
-"2K Czech,Feral Interactive (Mac)",2011,True,2.0
-"2K Marin,2K China,Digital Extremes,2K Australia,Feral Interactive (Mac)",2010,True,2.0
-"343 Industries,Vanguard Games",2014,False,1.0
+"2K Czech,Feral Interactive (Mac)",2011,1,2.0
+"2K Marin,2K China,Digital Extremes,2K Australia,Feral Interactive (Mac)",2010,1,2.0
+"343 Industries,Vanguard Games",2014,0,1.0
 3909,2013,14,14.0
-3D Realms (Apogee Software),1991,True,2.0
+3D Realms (Apogee Software),1991,1,2.0
 4 I Lab,2016,5,10.0
 49 Games,2007,3,3.0
 4A Games,2014,4,6.0
@@ -24,14 +24,14 @@ developer,year,recommend,sentiment_analysis
 5th Cell Media,2013,4,4.0
 800 North and Digital Ranch,2011,12,18.0
 8888888 LABS,2013,2,4.0
-88mm,2014,False,1.0
+88mm,2014,0,1.0
 9heads Game Studios,2014,2,3.0
 @unepic_fran,2014,6,6.0
 A Crowd of Monsters,2015,4,1.0
 ACE Team,2011,4,0.0
 ACQUIRE Corp.,2015,8,10.0
 AGC,2015,6,3.0
-ALICE IN DISSONANCE,2015,True,2.0
+ALICE IN DISSONANCE,2015,1,2.0
 AMPLITUDE Studios,2014,6,4.0
 AMPLITUDE Studios,2015,2,4.0
 AZAMATIKA,2016,0,2.0
@@ -52,7 +52,7 @@ Alientrap,2017,4,8.0
 Amaterasu Software,2016,0,6.0
 Anarchy Enterprises,2015,3,14.0
 Andrew Gilmour,2016,0,6.0
-"AndrewMD5,Codeusa",2015,True,2.0
+"AndrewMD5,Codeusa",2015,1,2.0
 Andrii Vintsevych,2009,4,8.0
 Anisoptera Games,2015,3,3.0
 Anothink,2015,2,4.0
@@ -60,8 +60,8 @@ Antonio Renna,2015,0,10.0
 Aperture Tag Team,2014,4,8.0
 Aquiris Game Studio,2017,3,6.0
 Aratog LLC,2015,4,8.0
-Arc System Works,2014,True,2.0
-Arc System Works,2015,False,2.0
+Arc System Works,2014,1,2.0
+Arc System Works,2015,0,2.0
 Archive Entertainment,2015,0,12.0
 Arkane Studios,2012,22,26.0
 Arkane Studios,2013,2,2.0
@@ -69,15 +69,15 @@ Arkavi Studios,2014,0,2.0
 Arrowhead Game Studios,2011,16,16.0
 Arrowhead Game Studios,2014,0,0.0
 Arrowhead Game Studios,2015,2,2.0
-Artefacts Studios,2013,True,1.0
-Ascaron,2012,True,1.0
+Artefacts Studios,2013,1,1.0
+Ascaron,2012,1,1.0
 Ascension Entertainment LLC,2008,0,3.0
 Aspyr,2012,1,2.0
-Aspyr Studios,2010,False,1.0
-Atapki,2014,False,1.0
+Aspyr Studios,2010,0,1.0
+Atapki,2014,0,1.0
 Atelier 801,2015,18,33.0
 Avalanche Software,2011,0,2.0
-Avalanche Studios,2006,True,1.0
+Avalanche Studios,2006,1,1.0
 Avalanche Studios,2010,16,20.0
 Avalanche Studios,2013,6,14.0
 Avalanche Studios,2015,22,34.0
@@ -87,25 +87,25 @@ Axis Game Factory,2014,5,10.0
 Axis Game Factory LLC,2015,5,5.0
 Axolot Games,2016,20,25.0
 Axyos Games,2014,4,4.0
-BANDAI NAMCO Studio Inc.,2015,True,2.0
-BS1 &amp; BSL Team,2014,True,0.0
+BANDAI NAMCO Studio Inc.,2015,1,2.0
+BS1 &amp; BSL Team,2014,1,0.0
 Back To Basics Gaming,2015,4,8.0
 Baggy Cat Ltd,2015,3,3.0
-Baller Industries,2010,True,2.0
-Baller Industries,2013,False,0.0
+Baller Industries,2010,1,2.0
+Baller Industries,2013,0,0.0
 Bankroll Studios,2015,16,8.0
 Basaltic studio,2016,2,4.0
-BattleGoat Studios,2008,True,2.0
+BattleGoat Studios,2008,1,2.0
 Beam Team Games,2015,54,72.0
 BeamNG,2015,15,15.0
 Beamdog,2013,0,2.0
 Beamdog,2016,0,2.0
 Beenox,2006,2,2.0
 Behold Studios,2013,2,0.0
-"Ben 'Yahtzee' Croshaw,Collected Worlds",2015,True,1.0
-Best Way,2009,False,0.0
+"Ben 'Yahtzee' Croshaw,Collected Worlds",2015,1,1.0
+Best Way,2009,0,0.0
 BetaDwarf,2013,4,4.0
-Bethesda Game Studios,2002,True,2.0
+Bethesda Game Studios,2002,1,2.0
 Bethesda Game Studios,2007,2,1.0
 Bethesda Game Studios,2008,3,3.0
 Bethesda Game Studios,2009,6,13.0
@@ -113,25 +113,25 @@ Bethesda Game Studios,2015,48,72.0
 Bethesda Game Studios,2016,8,17.0
 Big Ant Studios,2014,3,3.0
 Big Corporation,2016,6,21.0
-Big Fat Simulations Inc.,2015,True,1.0
+Big Fat Simulations Inc.,2015,1,1.0
 "Big Huge Games,38 Studios",2012,2,2.0
 Big Robot Ltd,2013,6,12.0
-BigAnt Studios,2008,True,2.0
+BigAnt Studios,2008,1,2.0
 "Binary Zoo,The Game Creators",2015,6,12.0
 BioWare,2008,2,4.0
-BioWare,2009,True,2.0
+BioWare,2009,1,2.0
 BioWare,2010,3,2.0
 "BioWare,Aspyr (Mac)",2003,4,6.0
 "BitMonster, Inc.",2015,15,30.0
 Bitbox Ltd.,2015,20,32.0
-Bithell Games,2012,True,1.0
+Bithell Games,2012,1,1.0
 Black Eye Games,2016,7,7.0
 Black Forest Games,2016,0,2.0
 Black Isle Studios,1998,1,3.0
-Black Sea Studios Ltd,2005,True,1.0
+Black Sea Studios Ltd,2005,1,1.0
 Black Shell Games,2015,3,6.0
 BlackSpot Entertainment,2017,3,6.0
-Blackbird Interactive,2016,False,2.0
+Blackbird Interactive,2016,0,2.0
 Blackfire Games,2015,4,4.0
 Blacklight Interactive,2016,24,36.0
 BlankMediaGames,2014,6,6.0
@@ -139,10 +139,10 @@ Blazing Griffin,2016,2,4.0
 Blender Foundation,2015,9,3.0
 Blendo Games,2016,3,6.0
 Blind Sky Studios,2016,3,6.0
-BlinkWorks Media,2012,False,1.0
+BlinkWorks Media,2012,0,1.0
 Blit Software,2012,2,2.0
 Bloober Team SA,2016,2,2.0
-Blooming Buds Studio,2016,True,2.0
+Blooming Buds Studio,2016,1,2.0
 Blue Bottle Games,2014,0,6.0
 Blue Byte,2010,3,3.0
 Blue Byte,2015,0,4.0
@@ -167,28 +167,28 @@ Born Ready Games Ltd.,2013,2,0.0
 Boss Baddie,2012,2,4.0
 Bossa Studios,2013,18,21.0
 Bossa Studios,2015,12,8.0
-Brain Bombers,2011,False,0.0
+Brain Bombers,2011,0,0.0
 Brainchild,2015,4,4.0
 Brightrock Games,2015,2,4.0
 Brilliant Skies Ltd.,2014,7,7.0
 Brytenwalda,2014,4,8.0
 "Buddy Cops, LLC",2016,6,6.0
 Bugbear,2014,18,36.0
-Bugbear Entertainment,2006,True,1.0
-Bugbear Entertainment,2008,True,2.0
+Bugbear Entertainment,2006,1,1.0
+Bugbear Entertainment,2008,1,2.0
 Bytebin,2015,0,8.0
 C3SK,2015,3,3.0
-CAPCOM,2016,True,1.0
+CAPCOM,2016,1,1.0
 "CAPCOM Co., Ltd.",2015,10,14.0
-CCCP,2014,False,1.0
+CCCP,2014,0,1.0
 CCP,2003,20,25.0
 CD PROJEKT RED,2008,2,4.0
 CD PROJEKT RED,2011,3,3.0
 "CD PROJEKT RED,Can Explode",2014,0,2.0
-CI Games,2013,False,0.0
+CI Games,2013,0,0.0
 "CI Games,Deck 13",2014,0,2.0
 CM Softworks,2015,7,7.0
-CRASS Studios,2016,True,2.0
+CRASS Studios,2016,1,2.0
 "CRAZYDIAMOND CO., LTD.",2016,8,20.0
 Cabygon,2015,3,0.0
 Cadence Games,2016,3,6.0
@@ -205,16 +205,16 @@ Carbon Games,2012,15,20.0
 Cardboard Keep,2016,4,8.0
 Carlsen Games,2013,2,0.0
 Cat5Games,2015,3,6.0
-Cauldron,2003,True,2.0
-Cavedog Entertainment,1997,False,2.0
-Centauri Production,2010,False,0.0
+Cauldron,2003,1,2.0
+Cavedog Entertainment,1997,0,2.0
+Centauri Production,2010,0,0.0
 Cherry Pop Games,2014,0,5.0
 Cherry Pop Games,2016,5,10.0
 Chondrite Games,2016,3,6.0
 Chucklefish,2016,145,205.0
 Cipher Prime Studios,2013,2,2.0
 "Circle Five Studios,Pub Games",2015,4,8.0
-City Interactive,2013,False,1.0
+City Interactive,2013,0,1.0
 Clickteam,2013,4,8.0
 Climax Studios,2015,2,2.0
 ClockStone,2013,3,3.0
@@ -226,7 +226,7 @@ CodeBrush Games,2014,9,6.0
 Codemasters Digital,2014,2,0.0
 "Codemasters Racing,Feral Interactive (Mac)",2013,2,6.0
 "Codemasters Racing,Feral Interactive (Mac),Feral Interactive (Linux)",2014,2,2.0
-Codemasters Studios,2009,True,0.0
+Codemasters Studios,2009,1,0.0
 "Codemasters,Feral Interactive (Linux)",2015,4,10.0
 "Codemasters,Feral Interactive (Mac)",2016,6,12.0
 Code}{atch,2015,115,130.0
@@ -250,7 +250,7 @@ Creative Assembly,2015,6,10.0
 Creative Assembly,2016,4,6.0
 "Creative Assembly,Feral Interactive (Linux),Feral Interactive (Mac)",2016,18,38.0
 "Creative Assembly,Feral Interactive (Mac),Feral Interactive (Linux)",2014,5,6.0
-"Crescent Moon Games,Cinopt Studios",2015,True,2.0
+"Crescent Moon Games,Cinopt Studios",2015,1,2.0
 Criterion Games,2009,2,4.0
 Criterion Games,2010,2,1.0
 Croteam,2005,4,6.0
@@ -284,18 +284,18 @@ Daniel Davies,2015,28,48.0
 Daniel Jonathan Bourke,2015,3,3.0
 Daniel Mullins Games,2016,4,4.0
 "Daniel Snd,Thiago Adamo",2016,2,4.0
-Darius Bode,2015,False,1.0
+Darius Bode,2015,0,1.0
 Dark Artz Entertainment,2012,0,3.0
 Dark Day Interactive,2015,6,12.0
 DarkElite,2014,3,3.0
 Darklight Games,2009,2,2.0
 Data Realms,2012,3,6.0
-David Mulder,2016,True,1.0
+David Mulder,2016,1,1.0
 David OReilly,2014,20,28.0
 David Stark,2015,8,12.0
 David Szymanski,2014,0,3.0
 David Williamson,2012,0,6.0
-Day 1 Studios,2011,True,0.0
+Day 1 Studios,2011,1,0.0
 Daybreak Game Company,2011,13,16.0
 Daybreak Game Company,2012,66,126.0
 Daybreak Game Company,2016,20,24.0
@@ -313,32 +313,32 @@ Denver Productions,2016,3,3.0
 Destructive Creations,2015,2,2.0
 Destructive Creations,2016,4,2.0
 Devil's Details,2011,3,3.0
-Devil's Details,2012,False,1.0
+Devil's Details,2012,0,1.0
 Dharker Studio,2015,4,6.0
 DiggerWorld Ltd.,2015,2,10.0
 Digital Confectioners,2014,16,18.0
 Digital Dawn Studios,2015,6,12.0
-Digital Extremes,2012,True,1.0
+Digital Extremes,2012,1,1.0
 Digital Extremes,2013,148,210.0
 Digitalmindsoft,2014,3,3.0
 Diminished Studios,2015,6,12.0
 Dingaling,2014,3,0.0
 Dinosaur Polo Club,2015,6,12.0
-Disney Interactive,2011,True,2.0
+Disney Interactive,2011,1,2.0
 Doctor Entertainment AB,2015,3,9.0
 Dodge Roll,2016,9,6.0
-Dogenzaka Lab,2016,True,1.0
+Dogenzaka Lab,2016,1,1.0
 DotEmu,2015,0,6.0
 Double Action Factory,2014,3,3.0
 Double Damage Games,2015,0,10.0
 Double Fine Productions,2013,3,9.0
 Double Fine Productions,2014,6,9.0
-Double Fine Productions,2015,True,0.0
-Double Fine Productions,2016,True,0.0
+Double Fine Productions,2015,1,0.0
+Double Fine Productions,2016,1,0.0
 "Double Helix Games,Rainbow Studios,THQ Nordic",2010,1,4.0
 DoubleDutch Games,2016,70,85.0
 Dovetail Games,2009,5,9.0
-Dovetail Games,2012,False,1.0
+Dovetail Games,2012,0,1.0
 Dragonfly,2013,2,2.0
 Dry Cactus,2016,2,2.0
 Ductape studio,2016,2,1.0
@@ -346,10 +346,10 @@ Ductape studio,2016,2,1.0
 Dylan Fitterer,2008,2,2.0
 Dylan Fitterer,2015,2,3.0
 "EA - Maxis,Aspyr (Mac)",2003,4,8.0
-EA Los Angeles,2007,True,2.0
+EA Los Angeles,2007,1,2.0
 EA Los Angeles,2008,2,3.0
-EVGA,2014,True,1.0
-Eagle Dynamics SA,2012,True,2.0
+EVGA,2014,1,1.0
+Eagle Dynamics SA,2012,1,2.0
 Eat Create Sleep,2015,4,12.0
 Eden Industries,2012,0,0.0
 Edge Case Games Ltd.,2016,12,20.0
@@ -360,7 +360,7 @@ Eforb,2015,0,4.0
 Eforb,2016,4,16.0
 Egamea Game Studios,2016,3,6.0
 Egosoft,2000,0,0.0
-Egosoft,2005,True,2.0
+Egosoft,2005,1,2.0
 Egosoft,2013,2,2.0
 "Eidos Montreal,Feral Interactive (Linux),Feral Interactive (Mac)",2016,6,12.0
 "Eidos Montreal,Feral Interactive (Mac)",2013,2,2.0
@@ -369,7 +369,7 @@ Eidos Studio Hungary,2009,0,0.0
 EightyEightGames,2015,5,0.0
 Eko Software,2013,6,6.0
 Ekuator Games,2015,2,4.0
-Electronic Arts,2010,False,1.0
+Electronic Arts,2010,0,1.0
 Eleon Game Studios,2015,0,0.0
 "Elias Viglione,Jussi Kukkonen",2014,15,30.0
 "Elias Viglione,Jussi Kukkonen",2015,5,10.0
@@ -378,16 +378,16 @@ Elliptic Games,2014,3,3.0
 Empires,2008,3,6.0
 Endnight Games Ltd,2014,140,145.0
 Ensemble Studios,2009,8,14.0
-EnsenaSoft,2016,True,1.0
+EnsenaSoft,2016,1,1.0
 Entrada Interactive LLC,2014,24,32.0
-"Epic Games, Inc.",2004,True,2.0
+"Epic Games, Inc.",2004,1,2.0
 Epiphany Games,2014,4,4.0
 "Eric Hartman,Ben Garney,Anthony Rotondo",2007,3,3.0
 Erik Asmussen,2015,3,6.0
 "Erik Svedäng,El Huervo / Niklas Åkerblad,Tobias Sjögren,Oscar ""Ratvader"" Rydelius,Johannes Gotlén",2015,3,6.0
 Ethrea Dreams,2016,3,3.0
-Eugen Systems,2012,True,2.0
-Eugen Systems,2013,False,0.0
+Eugen Systems,2012,1,2.0
+Eugen Systems,2013,0,0.0
 Eugen Systems,2014,2,5.0
 Evan Todd,2015,3,3.0
 Everything Unlimited Ltd.,2015,6,10.0
@@ -402,24 +402,24 @@ Exe Games Inc.,2012,4,18.0
 Eyedentity Games Inc.,2012,16,24.0
 Eyzi,2015,15,15.0
 "FIX Korea, Co.LTD,FIX Games, Co. LTD",2013,10,22.0
-FRENCH-BREAD,2016,True,1.0
+FRENCH-BREAD,2016,1,1.0
 Fabio Ferrara,2014,6,9.0
 "Fabio Ferrara,Davide Caio,Nicolò Azzolini,Antonio Carcagnì,Luigi Di Guida,Tommaso Vita",2016,2,2.0
 Facepunch Studios,2006,314,434.0
 Facepunch Studios,2013,486,618.0
 "Fancy Bytes, Reactor",2015,2,2.0
 Farsky Interactive,2014,0,4.0
-Fatshark,2014,True,2.0
+Fatshark,2014,1,2.0
 Fatshark,2015,0,4.0
 Fatshark,2016,4,4.0
 "Filip Victor,Valve",2015,6,6.0
 Firaxis Games,2005,2,2.0
 "Firaxis Games,Aspyr (Mac, Linux)",2010,47,60.0
-"Firaxis Games,Aspyr (Mac, Linux)",2012,True,2.0
-"Firaxis Games,Aspyr (Mac, Linux)",2013,True,2.0
+"Firaxis Games,Aspyr (Mac, Linux)",2012,1,2.0
+"Firaxis Games,Aspyr (Mac, Linux)",2013,1,2.0
 "Firaxis Games,Aspyr (Mac, Linux)",2014,1,4.0
-"Firaxis Games,Aspyr (Mac, Linux)",2015,True,1.0
-"Firaxis Games,Feral Interactive (Mac)",2006,True,2.0
+"Firaxis Games,Aspyr (Mac, Linux)",2015,1,1.0
+"Firaxis Games,Feral Interactive (Mac)",2006,1,2.0
 "Firaxis Games,Feral Interactive (Mac),Feral Interactive (Linux)",2012,9,11.0
 "Firaxis,Feral Interactive (Mac),Feral Interactive (Linux)",2016,9,13.0
 FireFly Studios,2012,2,10.0
@@ -431,8 +431,8 @@ Flox Studios Ltd.,2016,0,3.0
 Flying Wild Hog,2013,16,20.0
 Flyleap Studios,2016,4,4.0
 Flyleap Studios Pty. Ltd.,2013,0,8.0
-Focus Home Interactive,2013,True,2.0
-Focus Home Interactive,2015,False,1.0
+Focus Home Interactive,2013,1,2.0
+Focus Home Interactive,2015,0,1.0
 Forbes Consult Ltd,2015,6,6.0
 Forever Entertainment S. A.,2013,2,4.0
 Forever Entertainment S. A.,2014,0,3.0
@@ -452,7 +452,7 @@ Frima Studio,2014,2,2.0
 Frogames,2008,3,6.0
 Frogdice,2014,0,0.0
 Frogshark,2016,6,6.0
-Frogwares,2012,True,2.0
+Frogwares,2012,1,2.0
 FromSoftware,2012,42,50.0
 "FromSoftware, Inc",2014,14,14.0
 "FromSoftware, Inc",2015,8,8.0
@@ -481,12 +481,12 @@ GameArt Studio GmbH,2014,6,12.0
 "GameConnect,InterWave Studios",2011,0,4.0
 GameORE,2014,1,5.0
 GameUS Inc.,2015,0,0.0
-"Gamebryo,Virtual Playground",2007,False,2.0
+"Gamebryo,Virtual Playground",2007,0,2.0
 Gamepires,2013,6,9.0
 Gaming Minds Studios,2015,2,0.0
 Ganz,2014,10,0.0
 Gas Powered Games,2010,2,1.0
-Gearbox Software,1999,False,1.0
+Gearbox Software,1999,0,1.0
 Gearbox Software,2009,8,10.0
 Gearbox Software,2016,3,5.0
 "Gearbox Software,Aspyr (Mac &amp; Linux)",2012,78,104.0
@@ -494,7 +494,7 @@ Gearbox Software,2016,3,5.0
 "Gearbox Software,Aspyr (Mac)",2015,2,4.0
 Geek Sloth Games,2015,3,6.0
 Genee Network,2014,0,0.0
-General Arcade,1997,True,2.0
+General Arcade,1997,1,2.0
 "Geoff ""Zag"" Keene",2016,3,6.0
 Geoff Keighley,2011,0,2.0
 Ghost Town Games Ltd.,2016,4,4.0
@@ -505,12 +505,12 @@ Giants Software,2013,4,6.0
 Giants Software,2014,2,2.0
 Gl33k,2014,0,0.0
 Glass Knuckle Games,2014,2,4.0
-Going Loud Studios,2013,True,1.0
+Going Loud Studios,2013,1,1.0
 Gone North Games,2014,0,3.0
 Gravity Interactive,2003,3,3.0
 "Gravity, Inc.",2013,0,6.0
 "Gravvit Ltd,Forbes  Consult Ltd",2014,5,5.0
-Gray Matter Studios,2004,True,1.0
+Gray Matter Studios,2004,1,1.0
 Great War Team,2015,6,10.0
 Green Lava Studios,2016,2,2.0
 Greenheart Games,2013,40,52.0
@@ -528,11 +528,11 @@ Hanako Games,2013,4,8.0
 HandMade Game,2014,0,0.0
 Handyman Studios,2015,0,8.0
 Hardsuit Labs,2012,6,26.0
-HeR Interactive,2007,True,0.0
+HeR Interactive,2007,1,0.0
 Heart Machine,2016,4,4.0
 Hellbent Games,2015,3,0.0
 Hello Games,2016,32,74.0
-Hello There AB,2015,True,0.0
+Hello There AB,2015,1,0.0
 Hi-Rez Studios,2012,4,6.0
 Hi-Rez Studios,2015,24,40.0
 Hi-Rez Studios,2016,6,9.0
@@ -546,14 +546,14 @@ Holy Priest,2015,12,8.0
 Hoobalugalar_X,2017,2,6.0
 "Hopoo Games, LLC",2013,36,51.0
 Hosted Games,2011,2,0.0
-House of Tales,2001,True,2.0
+House of Tales,2001,1,2.0
 Humble Hearts LLC,2013,4,8.0
 Humongous Entertainment,1992,2,2.0
 Humongous Entertainment,1993,2,2.0
 Humongous Entertainment,1996,2,4.0
 Humongous Entertainment,1997,2,0.0
 Humongous Entertainment,2001,2,2.0
-Humongous Entertainment,2015,True,2.0
+Humongous Entertainment,2015,1,2.0
 HuniePot,2015,72,72.0
 HuniePot,2016,2,2.0
 Hunted Cow Studios,2014,5,5.0
@@ -566,7 +566,7 @@ ICE Entertainment,2015,9,21.0
 "IDEA FACTORY Co., Ltd.,COMPILE HEART Co., Ltd.,FELISTELLA Co., Ltd.",2015,16,28.0
 "IMCGAMES Co.,Ltd.",2016,9,21.0
 IO Entertainment,2013,3,3.0
-IO Interactive,2010,False,1.0
+IO Interactive,2010,0,1.0
 "IO Interactive A/S,Feral Interactive (Linux),Feral Interactive (Mac)",2016,4,5.0
 Ian Campbell,2013,2,4.0
 Ice Water Games,2015,28,32.0
@@ -574,7 +574,7 @@ Idea Factory,2015,3,0.0
 "Idea Factory,Compile Heart",2015,3,3.0
 "Idea Factory,Compile Heart,Felistella",2015,10,10.0
 "Idea Factory,Compile Heart,Tamsoft",2016,2,0.0
-Idigicon,2004,True,2.0
+Idigicon,2004,1,2.0
 Idol FX,2003,2,2.0
 Igry.ru,2015,3,3.0
 "Iguana Entertainment,Nightdive Studios",1997,2,0.0
@@ -584,19 +584,19 @@ Infinity Ward,2014,3,6.0
 "Infinity Ward,Aspyr (Mac)",2007,1,1.0
 "Infinity Ward,Aspyr (Mac)",2009,5,8.0
 Ink Stains Games,2015,2,4.0
-Ino-Co Plus,2012,True,2.0
+Ino-Co Plus,2012,1,2.0
 Instant Kingdom,2003,4,4.0
 InterAction studios,2015,3,3.0
-Interplay Inc.,1997,True,0.0
+Interplay Inc.,1997,1,0.0
 Introversion Software,2006,2,4.0
 Introversion Software,2015,42,57.0
 Invent4 Entertainment,2009,38,47.0
 InvertMouse,2015,6,10.0
 "Invictus-Games LLC.,ImageCode LLC.",2016,2,2.0
-Io-Interactive A/S,2004,True,1.0
+Io-Interactive A/S,2004,1,1.0
 "Io-Interactive A/S,Feral Interactive (Mac)",2012,5,7.0
 Ion Storm,2000,3,5.0
-Ion Storm,2004,False,0.0
+Ion Storm,2004,0,0.0
 "Iron Galaxy Studios, LLC",2013,2,2.0
 "Ironclad Games,Stardock Entertainment",2012,8,14.0
 "Irrational Games,Aspyr (Mac),Virtual Programming (Linux)",2013,18,25.0
@@ -609,7 +609,7 @@ Jagex,2016,3,3.0
 Jagex Limited,2012,10,22.0
 Jagex Limited,2015,0,3.0
 "Jagex,Artplant",2015,20,40.0
-Jarhead Games,2004,False,0.0
+Jarhead Games,2004,0,0.0
 Jasper Byrne,2012,5,5.0
 JetCat Games,2017,3,6.0
 "Jetdogs Studios,Zoom Out Games",2015,2,2.0
@@ -619,10 +619,10 @@ Joycity,2015,5,5.0
 "Jundroo, LLC",2015,6,8.0
 "Just Add Water (Developments), Ltd.",2015,3,6.0
 K Bros Games,2016,4,6.0
-"KOEI TECMO GAMES CO., LTD.",2014,False,2.0
+"KOEI TECMO GAMES CO., LTD.",2014,0,2.0
 "KOEI TECMO GAMES CO., LTD.",2015,4,5.0
 KOG,2014,24,6.0
-"Kaos Studios,Digital Extremes",2011,True,2.0
+"Kaos Studios,Digital Extremes",2011,1,2.0
 Katapult,2016,4,0.0
 Katauri,2014,0,3.0
 Keen Software House,2012,5,10.0
@@ -663,7 +663,7 @@ Lazy Bum Games,2015,0,6.0
 Lazy Monday Games,2015,0,2.0
 League of Geeks,2015,12,16.0
 Lemonsucker Games,2016,3,3.0
-Lesta Studio,2003,True,1.0
+Lesta Studio,2003,1,1.0
 Lighthouse Games Studio,2015,3,6.0
 Limbic Entertainment,2015,2,2.0
 Lino Slahuschek,2016,4,6.0
@@ -671,18 +671,18 @@ Lino Slahuschek,2016,4,6.0
 Lionhead Studios,2011,3,6.0
 Lionhead Studios,2014,4,3.0
 Little Big Lee,2016,4,8.0
-Little Freedom Factory,2016,True,2.0
+Little Freedom Factory,2016,1,2.0
 Locomotivah,2015,2,0.0
 Lord Kres,2015,0,3.0
 LuGus Studios,2015,0,0.0
-LucasArts,1995,True,2.0
+LucasArts,1995,1,2.0
 LucasArts,2005,5,7.0
 "LucasArts,Aspyr Studios",2009,0,2.0
 Ludeon Studios,2016,4,0.0
 "Ludosity,Remar Games",2014,3,0.0
 Luke Cripps,2016,3,6.0
 Lukewarm Media,2012,4,10.0
-"M2 Co.,LTD",2015,True,0.0
+"M2 Co.,LTD",2015,1,0.0
 "M2H,Blackmill Games",2015,57,63.0
 Machine Games,2014,3,4.0
 MachineGames,2015,2,1.0
@@ -691,7 +691,7 @@ MachineSpirit,2015,3,3.0
 Mad Otter Games,2014,4,8.0
 Madruga Works,2015,3,3.0
 Mana Games,2015,3,3.0
-Marie Ronnaux Games,2014,False,0.0
+Marie Ronnaux Games,2014,0,0.0
 "Mario von Rickenbach,Michael Frei",2015,6,6.0
 Martin Ivanov,2011,2,2.0
 "Masangsoft, Inc.",2014,3,0.0
@@ -709,7 +709,7 @@ Michael Todd Games,2013,2,4.0
 Michael Zahniser,2015,5,15.0
 Michaela Laws,2015,2,6.0
 "MicroProse Software, Inc",1989,2,4.0
-"MicroProse Software, Inc",1998,True,2.0
+"MicroProse Software, Inc",1998,1,2.0
 Microblast Games,2014,6,15.0
 Microsoft Game Studios,2006,3,4.0
 "MidBoss, LLC.",2015,2,0.0
@@ -721,7 +721,7 @@ Milestone S.r.l.,2016,3,6.0
 Milkstone Studios,2014,6,9.0
 Mimimi Productions,2014,3,3.0
 Mindstorm Studios,2009,3,6.0
-"Mine Loader Software Co., Ltd.",2013,True,1.0
+"Mine Loader Software Co., Ltd.",2013,1,1.0
 MiniBoss,2016,6,6.0
 Minor Key Games,2012,2,0.0
 Minskworks,2016,4,8.0
@@ -731,10 +731,10 @@ MobileBits,2015,0,0.0
 Mohawk Games,2016,6,12.0
 Monkeys Tales Studio,2016,3,3.0
 "Monochrome, Inc",2013,3,15.0
-Monolith,2006,True,0.0
+Monolith,2006,1,0.0
 "Monolith Productions, Inc.",2012,14,18.0
 "Monolith Productions, Inc.,Feral Interactive (Mac),Feral Interactive (Linux)",2015,4,8.0
-"Monolith Productions, Inc.,Timegate",2005,True,2.0
+"Monolith Productions, Inc.,Timegate",2005,1,2.0
 "Monolith Productions,Feral Interactive (Mac),Feral Interactive (Linux)",2014,10,14.0
 Monomi Park,2017,20,28.0
 Moon Studios GmbH,2015,2,3.0
@@ -747,10 +747,10 @@ Muse Games,2012,36,56.0
 Muzzy Lane Software,2008,2,4.0
 Myrtilus Entertainment,2013,4,8.0
 Mystic Games,2015,0,4.0
-N3V Games,2011,True,2.0
-N3V Games,2015,False,2.0
+N3V Games,2011,1,2.0
+N3V Games,2015,0,2.0
 NEXON Korea Corp.,2012,7,14.0
-NGD Studios,2016,False,2.0
+NGD Studios,2016,0,2.0
 NIKITA ONLINE,2015,4,16.0
 Nabi Studios,2006,32,32.0
 Nacho Games,2015,2,6.0
@@ -765,7 +765,7 @@ Nerd Kingdom Inc.,2014,4,4.0
 Nerial,2016,4,8.0
 Net Games Laboratory,2014,0,4.0
 Netcore Games,2012,0,0.0
-NetherRealm Studios,2015,True,2.0
+NetherRealm Studios,2015,1,2.0
 "NetherRealm Studios,High Voltage Software",2013,4,7.0
 "NetherRealm Studios,High Voltage Software",2015,4,8.0
 Never Don't Play,2015,3,6.0
@@ -778,10 +778,10 @@ Nickervision Studios,2016,3,6.0
 Nicolas Bernard,2015,3,6.0
 Night Node,2014,3,6.0
 Nihon Falcom,2013,3,0.0
-Nikita,2007,False,1.0
+Nikita,2007,0,1.0
 Nimbly Games,2009,3,6.0
 "Nina Freeman,Emmett Butler,Decky Coss,Joni Kittaka",2014,4,6.0
-"Nina Freeman,Laura Knetzger,Stephen Lawrence Clark",2015,True,0.0
+"Nina Freeman,Laura Knetzger,Stephen Lawrence Clark",2015,1,0.0
 Ninja Kiwi,2014,2,2.0
 Ninja Kiwi,2016,0,3.0
 Ninja Theory,2013,2,2.0
@@ -804,20 +804,20 @@ OVERKILL - a Starbreeze Studio.,2014,12,16.0
 OVERKILL - a Starbreeze Studio.,2015,32,44.0
 OVERKILL - a Starbreeze Studio.,2016,8,20.0
 OVERKILL Software,2011,9,12.0
-OVERKILL Software,2012,True,1.0
+OVERKILL Software,2012,1,1.0
 Obsidian Entertainment,2010,46,56.0
 Obsidian Entertainment,2011,2,2.0
 Obsidian Entertainment,2014,15,18.0
-Obsidian Entertainment,2015,False,0.0
-"Obsidian Entertainment,Aspyr (Mac, Linux, &amp; Windows Update)",2005,True,2.0
+Obsidian Entertainment,2015,0,0.0
+"Obsidian Entertainment,Aspyr (Mac, Linux, &amp; Windows Update)",2005,1,2.0
 Octoshark Studios,2010,6,9.0
-Oddworld Inhabitants,1997,True,1.0
+Oddworld Inhabitants,1997,1,1.0
 Oddworld Inhabitants,2010,3,6.0
 Odin Game Studio,2014,0,9.0
 Odin Game Studio,2016,3,12.0
 Offworld Industries,2015,44,68.0
 Old B1ood,2016,8,12.0
-Old School Games,2013,True,2.0
+Old School Games,2013,1,2.0
 Omniconnection,2017,0,3.0
 Oovee® Game Studios,2014,6,3.0
 Opus,2014,0,0.0
@@ -835,7 +835,7 @@ Oxeye Game Studio,2016,3,6.0
 PERFECT PARALLEL,2016,0,0.0
 Pandemic Studios,2005,9,8.0
 Paradox Development Studio,2009,2,2.0
-Paradox Development Studio,2010,False,1.0
+Paradox Development Studio,2010,0,1.0
 Paradox Development Studio,2012,21,30.0
 Paradox Development Studio,2013,21,29.0
 Paradox Development Studio,2014,5,5.0
@@ -849,16 +849,16 @@ Peach Pie Productions,2016,4,4.0
 Peacock Dreams Games,2016,2,4.0
 PestoForce,2015,4,16.0
 Peter Moorhead,2015,0,4.0
-Petroglyph,2015,True,2.0
+Petroglyph,2015,1,2.0
 Phigames,2014,4,8.0
 Phoenix Online Studios,2013,0,4.0
 Phosphor Games Studio,2014,30,75.0
 PiGravity,2015,2,4.0
 Pieces Interactive,2015,0,4.0
 Pinterac,2016,5,25.0
-Piranha Bytes,2012,False,1.0
+Piranha Bytes,2012,0,1.0
 Piranha Games Inc.,2015,10,15.0
-Pivotal Games,2002,True,2.0
+Pivotal Games,2002,1,2.0
 Pixbits,2016,3,6.0
 "Pixel Dash Studios, EQgames",2017,15,25.0
 PixelFade Inc,2016,6,6.0
@@ -866,7 +866,7 @@ PixelTail Games,2016,18,6.0
 Pixeljam,2014,2,2.0
 Pixeljam,2016,3,6.0
 Playata GmbH,2016,7,7.0
-Playbrains,2009,True,0.0
+Playbrains,2009,1,0.0
 Playdead,2011,8,10.0
 Playsaurus,2015,126,196.0
 Playsaurus,2016,0,0.0
@@ -875,8 +875,8 @@ Pocketwatch Games,2013,20,20.0
 PolyPusher Studios,2013,2,2.0
 Polytron Corporation,2013,2,3.0
 "PopCap Games, Inc.",2006,4,4.0
-"PopCap Games, Inc.",2007,True,1.0
-"PopCap Games, Inc.",2009,True,1.0
+"PopCap Games, Inc.",2007,1,1.0
+"PopCap Games, Inc.",2009,1,1.0
 "PopTop Software,BreakAway Games,Frog City Software",2009,0,0.0
 Poppermost Productions,2013,10,5.0
 Portalarium,2014,3,6.0
@@ -889,7 +889,7 @@ Psychic Software,2014,0,0.0
 "Psyonix, Inc.",2015,188,288.0
 "Psyonix, Inc.",2016,4,28.0
 Puny Human,2014,4,6.0
-Pyro Studios,2005,True,0.0
+Pyro Studios,2005,1,0.0
 QUICKTEQUILA,2014,2,2.0
 "QUICKTEQUILA,Calum Bowen",2014,2,4.0
 Quickfire Games,2015,0,3.0
@@ -904,13 +904,13 @@ Rake in Grass,2015,4,8.0
 Raptor Claw Games,2016,0,4.0
 "Raven Software,Aspyr (Mac)",2003,2,2.0
 Raylight Games,2013,0,0.0
-Razorworks,2005,True,2.0
-Razorworks,2008,False,2.0
+Razorworks,2005,1,2.0
+Razorworks,2008,0,2.0
 Re-Logic,2011,304,460.0
 Reakktor Studios,2016,6,6.0
-Rebellion,2000,True,0.0
-Rebellion,2005,False,1.0
-Rebellion,2006,True,2.0
+Rebellion,2000,1,0.0
+Rebellion,2005,0,1.0
+Rebellion,2006,1,2.0
 Rebellion,2010,4,7.0
 Rebellion,2012,7,11.0
 Rebellion,2013,2,3.0
@@ -919,24 +919,24 @@ Rebellion,2015,4,5.0
 Red Barrels,2013,33,36.0
 Red Barrels,2014,6,3.0
 Red Hook Studios,2016,54,63.0
-Red Storm Entertainment,2006,False,1.0
+Red Storm Entertainment,2006,0,1.0
 Red Thread Games,2017,6,10.0
-"RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev",2014,False,1.0
+"RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev",2014,0,1.0
 "Redlynx Ltd,Ubisoft  Shanghaï",2013,2,2.0
 Redwood Games,1992,2,4.0
 Reflect Studios,2016,6,4.0
 Reflextions,2016,2,2.0
 Reiza Studios,2014,4,4.0
-Relic,2011,True,2.0
+Relic,2011,1,2.0
 Relic,2012,1,2.0
 Relic Entertainment,2006,7,8.0
 Relic Entertainment,2008,2,2.0
-Relic Entertainment,2009,True,1.0
+Relic Entertainment,2009,1,1.0
 "Relic Entertainment,Feral Interactive (Mac),Feral Interactive (Linux)",2013,8,8.0
-"Relic Entertainment,Feral Interactive (Mac/Linux)",2009,True,0.0
-"Relic Entertainment,Feral Interactive (Mac/Linux)",2010,True,0.0
-"Relic Entertainment,Feral Interactive (Mac/Linux)",2016,True,2.0
-"Relic Entertainment,THQ Nordic",2003,True,2.0
+"Relic Entertainment,Feral Interactive (Mac/Linux)",2009,1,0.0
+"Relic Entertainment,Feral Interactive (Mac/Linux)",2010,1,0.0
+"Relic Entertainment,Feral Interactive (Mac/Linux)",2016,1,2.0
+"Relic Entertainment,THQ Nordic",2003,1,2.0
 Reloaded Productions,2011,39,60.0
 Remedy Entertainment,2012,2,2.0
 Reperio Studios,2016,0,10.0
@@ -987,7 +987,7 @@ SEGA,2012,2,2.0
 SEGA,2014,3,6.0
 SFB Games,2014,5,10.0
 "SNK CORPORATION,DotEmu",2014,1,2.0
-STRIKEWORKS,2015,True,2.0
+STRIKEWORKS,2015,1,2.0
 SUPERHOT Team,2016,28,52.0
 Sad Panda Studios,2016,6,9.0
 Sakura River Interactive,2009,3,6.0
@@ -1015,24 +1015,24 @@ Sigma Team Inc.,2007,0,3.0
 "Signal Studios,Smart Ghost",2015,5,5.0
 Silk Games,2014,3,0.0
 Silver Dollar Games,2014,6,15.0
-Silver Wish Games,2010,False,0.0
-SimBin,2007,False,2.0
+Silver Wish Games,2010,0,0.0
+SimBin,2007,0,2.0
 Sixteen Tons Entertainment,2006,0,0.0
 Ska Studios,2016,0,3.0
 Skobbejak Games,2015,6,6.0
 "SkyBox Labs,Big Huge Games",2014,0,0.0
-"SkyBox Labs,Forgotten Empires",2015,True,1.0
+"SkyBox Labs,Forgotten Empires",2015,1,1.0
 "SkyBox Labs,Forgotten Empires",2016,0,4.0
 SkyGoblin,2013,2,0.0
 "Skybox Labs,Hidden Path Entertainment,Ensemble Studios",2013,8,14.0
 Skyjaz Games,2016,0,3.0
 Slant Six Games,2012,1,1.0
 "Sledgehammer Games,Raven Software",2014,6,11.0
-Slightly Mad Studios,2009,True,2.0
-Slightly Mad Studios,2011,True,2.0
+Slightly Mad Studios,2009,1,2.0
+Slightly Mad Studios,2011,1,2.0
 Slightly Mad Studios,2015,3,6.0
 Slightly Mad Studios,2016,3,6.0
-Smack Down Productions,2012,True,1.0
+Smack Down Productions,2012,1,1.0
 Small Town Studios,2015,2,2.0
 Smartly Dressed Games,2014,20,40.0
 Smartly Dressed Games,2017,470,585.0
@@ -1052,17 +1052,17 @@ South East Games,2014,4,4.0
 South East Games,2015,3,6.0
 Soviet Games,2014,4,4.0
 Space Boat Studios,2015,7,21.0
-Space Budgie,2013,True,1.0
+Space Budgie,2013,1,1.0
 "Space Cat Studios,SnowFlame,Back To Basics Gaming",2015,2,4.0
 Spark Plug Games,2015,0,2.0
 "Sparpweed,Codeglue",2014,3,3.0
 Spasman Games,2014,6,12.0
 Spectral Games,2015,0,4.0
-Spellbound Studios,2010,True,1.0
+Spellbound Studios,2010,1,1.0
 Spiderling Studios,2015,30,36.0
 Spiderweb Software,2013,0,3.0
 "Spike Chunsoft Co., Ltd.",2016,2,3.0
-"Spike Chunsoft Co., Ltd.,Abstraction Games",2016,True,1.0
+"Spike Chunsoft Co., Ltd.,Abstraction Games",2016,1,1.0
 Splash Damage,2011,2,4.0
 Splash Damage,2015,36,60.0
 Spooky Squid Games Inc.,2012,2,4.0
@@ -1071,9 +1071,9 @@ Square Enix,2013,3,6.0
 Square Enix,2014,8,13.0
 Square Enix,2015,1,1.0
 Square Enix,2016,2,3.0
-Square Enix Montréal,2016,False,1.0
-"Square Enix,DotEmu SAS.",2014,True,2.0
-Stainless Games,2014,False,1.0
+Square Enix Montréal,2016,0,1.0
+"Square Enix,DotEmu SAS.",2014,1,2.0
+Stainless Games,2014,0,1.0
 Stainless Games Ltd.,2015,4,12.0
 "Standing Stone Games, LLC",2012,3,3.0
 Star Gem Inc.,2013,12,16.0
@@ -1086,7 +1086,7 @@ Still Running,2015,2,4.0
 Stout Games,2011,4,8.0
 Straight Right,2015,0,2.0
 Strange Fire,2016,4,4.0
-Strategy First,2006,False,0.0
+Strategy First,2006,0,0.0
 Studio Bean,2013,2,0.0
 "Studio Wildcard,Instinct Games,Efecto Studios,Virtual Basement LLC",2016,10,15.0
 "Studio Wildcard,Instinct Games,Efecto Studios,Virtual Basement LLC",2017,247,418.0
@@ -1103,9 +1103,9 @@ Synergy Team,2005,6,12.0
 TB Games,2015,18,18.0
 TERC,2015,4,6.0
 TML Studios,2012,1,0.0
-TML-Studios,2009,False,1.0
+TML-Studios,2009,0,1.0
 TML-Studios,2015,3,3.0
-TNT Team,1998,True,1.0
+TNT Team,1998,1,1.0
 TT Games,2012,0,2.0
 "TT Games Ltd,Feral Interactive (Mac)",2014,4,4.0
 "TT Games Ltd,Feral Interactive (Mac)",2015,2,4.0
@@ -1116,11 +1116,11 @@ TaleWorlds Entertainment,2011,4,10.0
 "TaleWorlds Entertainment,Flying Squirrel Entertainment",2012,2,4.0
 Tall Tail Studios,2016,8,20.0
 Tamationgames,2016,3,0.0
-Tamsoft,2016,False,1.0
+Tamsoft,2016,0,1.0
 Targem Games,2016,0,3.0
 Tasharen Entertainment Inc.,2015,4,4.0
 Team 6 Studios,2010,0,0.0
-Team 6 Studios,2011,True,0.0
+Team 6 Studios,2011,1,0.0
 "Team Chaos, LLC",2014,2,4.0
 Team Fractal Alligator,2015,2,2.0
 Team Jolly Roger,2015,2,4.0
@@ -1129,11 +1129,11 @@ Team Meat,2010,6,8.0
 Team Psykskallar,2013,48,60.0
 Team Reptile,2014,6,6.0
 Team17 Digital Ltd,1999,2,2.0
-Team17 Digital Ltd,2010,True,1.0
-Team17 Digital Ltd,2011,False,1.0
+Team17 Digital Ltd,2010,1,1.0
+Team17 Digital Ltd,2011,0,1.0
 Techland,2013,3,4.0
 Techland,2015,30,32.0
-Techland,2016,False,0.0
+Techland,2016,0,0.0
 Technomancy Studios,2016,4,4.0
 Teeworlds Team,2007,3,3.0
 Telltale Games,2010,6,16.0
@@ -1147,21 +1147,21 @@ Terrible Posture Games,2014,2,4.0
 Terry Cavanagh,2010,4,6.0
 Terry Cavanagh,2012,18,22.0
 Test3 Projects,2013,2,0.0
-Teyon,2014,False,1.0
+Teyon,2014,0,1.0
 The Behemoth,2012,50,70.0
 The Behemoth,2014,56,56.0
 The Chinese Room,2013,3,3.0
-The Creative Assembly,2004,True,1.0
+The Creative Assembly,2004,1,1.0
 "The Creative Assembly,Feral Interactive (Mac),Feral Interactive (Linux)",2006,2,3.0
 "The Creative Assembly,Feral Interactive (Mac),Feral Interactive (Linux)",2009,4,7.0
 The Dept of Silly Stuff,2014,3,3.0
-The Farm 51,2012,True,2.0
-The Game Bakers,2016,True,0.0
+The Farm 51,2012,1,2.0
+The Game Bakers,2016,1,0.0
 The Glitch Factory,2016,0,4.0
 The Indie Stone,2013,12,24.0
 The Men Who Wear Many Hats,2013,2,2.0
 The Men Who Wear Many Hats,2014,3,6.0
-The Odd Gentlemen,2015,True,1.0
+The Odd Gentlemen,2015,1,1.0
 "The Quinnspiracy,Patrick Lindsey,Isaac Schankler",2014,28,28.0
 The Sims Studio,2009,2,3.0
 The Tambourine,2016,0,10.0
@@ -1187,7 +1187,7 @@ Traveller's Tales,2013,6,8.0
 "Traveller's Tales,Feral Interactive (Mac)",2009,2,6.0
 "Traveller's Tales,Feral Interactive (Mac)",2014,0,2.0
 "Traveller's Tales,TT Games,Feral Interactive (Mac)",2016,4,2.0
-Travian Games GmbH,2015,False,1.0
+Travian Games GmbH,2015,0,1.0
 "Trek Industries, Inc",2013,52,80.0
 "Trek Industries, Inc",2015,3,3.0
 Trendy Entertainment,2017,35,40.0
@@ -1207,16 +1207,16 @@ TripleBrick,2016,2,2.0
 Tripwire Interactive,2009,22,27.0
 Tripwire Interactive,2011,33,36.0
 Tripwire Interactive,2016,31,38.0
-"Triumph Studios,Virtual Programming",2007,True,2.0
-Triverske,2016,True,2.0
-Troika Games,2004,True,1.0
+"Triumph Studios,Virtual Programming",2007,1,2.0
+Triverske,2016,1,2.0
+Troika Games,2004,1,1.0
 Turbo Pixel Studios,2014,2,2.0
 Turtle Rock Studios,2015,42,64.0
 Twice Circled,2015,0,3.0
 U-Play Online,2016,9,18.0
 U.S. Army,2015,2,4.0
 Uber Entertainment,2012,5,5.0
-Uber Entertainment,2014,True,2.0
+Uber Entertainment,2014,1,2.0
 Uber Entertainment,2015,6,9.0
 Ubisoft,2014,17,31.0
 Ubisoft,2016,12,16.0
@@ -1240,25 +1240,25 @@ Ubisoft Toronto,2013,8,8.0
 Ultravision Interactive,2014,2,2.0
 Undead Labs,2013,12,15.0
 Undead Labs,2015,3,3.0
-Unfinished Pixel,2014,True,2.0
-Unicorn Games Studio,2010,False,0.0
+Unfinished Pixel,2014,1,2.0
+Unicorn Games Studio,2010,0,0.0
 Unigine LLC.,2012,2,4.0
-United Front Games,2012,False,0.0
+United Front Games,2012,0,0.0
 "United Front Games,Feral Interactive (Mac)",2014,3,6.0
 United Independent Entertainment GmbH,2013,1,1.0
 Unknown Worlds Entertainment,2012,12,15.0
 Uppercut Games Pty Ltd,2014,2,0.0
 Urban Games,2014,3,3.0
 VIS - Visual Imagination Software,2014,0,6.0
-VStep,2010,True,1.0
+VStep,2010,1,1.0
 Vae Victis Games,2016,10,15.0
 Valve,1998,4,6.0
 Valve,1999,2,5.0
 Valve,2000,5,8.0
-Valve,2001,True,2.0
+Valve,2001,1,2.0
 Valve,2004,47,59.0
-Valve,2005,True,1.0
-Valve,2006,False,2.0
+Valve,2005,1,1.0
+Valve,2006,0,2.0
 Valve,2007,603,866.0
 Valve,2008,1,3.0
 Valve,2009,46,64.0
@@ -1276,10 +1276,10 @@ Vifth Floor,2016,4,8.0
 Vigil Games,2010,2,4.0
 "Virgin Interactive Entertainment,PriitK",2015,4,8.0
 "Virtual Basement LLC,Code Headquarters LLC",2015,2,6.0
-Visceral Games,2011,True,2.0
+Visceral Games,2011,1,2.0
 Visual Concepts,2015,2,4.0
 "Visual Concepts,Yuke's",2016,4,6.0
-VisualArts/Key,2004,True,2.0
+VisualArts/Key,2004,1,2.0
 VisualArts/Key,2015,2,4.0
 "Viswanath Atlu,Laurie Banks,Rohan Bhukan,Nick Burnham,Avinash Kalapala,Yash Kapani,Katharine Marsh,Ankur Rathore,Hardit Singh,Anoop Nihar Srinivas,Ryan Guanyuhao Jiang,Robert Zhu",2016,3,6.0
 Vladimir Maslov,2016,2,4.0
@@ -1287,7 +1287,7 @@ Vlambeer,2015,27,33.0
 Vogelsap,2015,2,0.0
 Volition,2009,3,4.0
 Volition,2011,6,9.0
-"Volition,Reactor Zero,THQ Nordic",2009,True,2.0
+"Volition,Reactor Zero,THQ Nordic",2009,1,2.0
 VolumeUp Studios,2016,3,6.0
 Volumetric Games,2016,3,6.0
 Vortal Storm,2014,2,4.0
@@ -1297,7 +1297,7 @@ WARTEAM,2015,3,18.0
 "WB Games Montreal,Splash Damage",2013,2,0.0
 WRF Studios,2015,3,3.0
 WTFOMGames,2016,0,4.0
-Wanako Games,2006,True,0.0
+Wanako Games,2006,1,0.0
 Warfare Studios,2015,4,4.0
 WarfareSims,2014,2,2.0
 Warlock Wireless,2016,5,10.0
@@ -1337,11 +1337,11 @@ cupholder,2016,3,6.0
 electrolyte,2014,2,2.0
 erobotan,2016,2,2.0
 id Software,1994,2,3.0
-id Software,1995,True,1.0
-id Software,1996,True,1.0
-id Software,1999,True,2.0
+id Software,1995,1,1.0
+id Software,1996,1,1.0
+id Software,1999,1,2.0
 id Software,2004,2,4.0
-id Software,2005,False,0.0
+id Software,2005,0,0.0
 id Software,2010,2,5.0
 id Software,2016,14,17.0
 inXile Entertainment,2014,0,0.0
@@ -1350,14 +1350,14 @@ isTom Games Kft.,2015,4,6.0
 kChamp Games,2015,12,24.0
 kunst-stoff GmbH,2014,4,4.0
 marbenx,2015,30,24.0
-minori,2015,True,1.0
+minori,2015,1,1.0
 momoStorm Entertainment,2015,0,6.0
 nFusion Interactive,2013,0,0.0
 ninjalex,2015,3,9.0
 practicing01,2015,2,0.0
 sparsevector,2013,6,6.0
 stage-nana,2007,4,5.0
-stillalive studios,2016,True,1.0
+stillalive studios,2016,1,1.0
 the whale husband,2015,12,28.0
 tobyfox,2015,80,102.0
 △○□× (Miwashiba),2016,4,8.0
