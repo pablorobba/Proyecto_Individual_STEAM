@@ -1,13 +1,17 @@
 import pandas as pd
 import numpy as np
+import scipy as sp
+import pyarrow as pa
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-
-df_developer = pd.read_csv(r"Api_DataFrame\developer.csv")
-df_userdata = pd.read_csv(r"Api_DataFrame\userdata.csv")
+df_developer = pd.read_csv(r"Api_DataFrame/developer.csv")
+df_userdata = pd.read_csv(r"Api_DataFrame/userdata.csv")
 df_best_developer_year= pd.read_csv(r"Api_DataFrame/best_developer_year.csv")
 df_UserForGenre_genre = pd.read_csv(r"Api_DataFrame/UserForGenre_genre.csv")
-df_UserForGenre_year = pd.read_csv(r"Api_DataFrame\UserForGenre_year.csv")
-df_developer_reviews_analysis = pd.read_csv(r"Api_DataFrame\developer_reviews_analysis.csv")
+df_UserForGenre_year = pd.read_csv(r"Api_DataFrame/UserForGenre_year.csv")
+df_developer_reviews_analysis = pd.read_csv(r"Api_DataFrame/developer_reviews_analysis.csv")
+grouped_df = pd.read_csv(r"Api_DataFrame/grouped_df.csv")
 
 def presentation():
     '''
@@ -137,3 +141,34 @@ def developer_reviews_analysis(developer : str ):
     dictionary = {dev: [string]}
     
     return dictionary
+
+def find_similar_games(item_id : int):
+    """Cosine similarity machine learning enhanced query, 
+        gives you 5 games according to the game(id) you give. For instance, Try: 342580"
+    Args:
+        item_id (int)
+    Returns:
+        _type_: list
+    """
+    #list to save the result of the loop
+    list_ = []
+    #the ML model, which a cosine_similarity
+    tfidf_vectorizer = TfidfVectorizer()
+    tfidf_matrix = tfidf_vectorizer.fit_transform(grouped_df['combined_columns'])
+    cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
+    cosine_sim_df = pd.DataFrame(cosine_sim, index=grouped_df['item_id'], columns=grouped_df['item_id'])
+
+    
+    game_index = grouped_df[grouped_df['item_id'] == item_id].index[0]  #save the index
+    
+    similar_scores = cosine_sim_df.iloc[game_index]     #make a series with the similar games
+    
+    similar_games = similar_scores.sort_values(ascending=False)   #order the game
+    
+    # We dont include the game that we passed (similarity 1.0, the highest one)
+    similar_games = similar_games[1:6]
+    index = similar_games.index.values      #save the index of the similar games
+    for i in index:                             #took the index that we saved, loop them into a mask, use the mask to
+        mask = grouped_df["item_id"] == i #save the values in a list and then return it                     
+        list_.append(grouped_df[mask].item_name.values[0])
+    return list_

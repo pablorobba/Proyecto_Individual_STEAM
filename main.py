@@ -5,8 +5,11 @@ import pandas as pd
 import numpy as np
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
+import scipy as sp
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
 
-
+grouped_df = pd.read_csv(r"Api_DataFrame/grouped_df.csv")
 df_developer = pd.read_csv(r"Api_DataFrame\developer.csv")
 df_userdata = pd.read_csv(r"Api_DataFrame\userdata.csv")
 df_best_developer_year= pd.read_csv(r"Api_DataFrame/best_developer_year.csv")
@@ -59,3 +62,9 @@ def best_developer_year(year: int):
          description="Acorrding to the developer given returns the developer name and it's reviews (positive/negative). For example, Try: Ubisoft")
 def developer_reviews_analysis(dev : str):
     return f.developer_reviews_analysis(dev)
+
+@app.get (path="/recommendation_game/{id_game}", tags =["Games Consult"],
+          summary="Returns 5 similar games, acording to the one you provided",
+          description="cosine similarity machine learning enhanced query, gives you 5 games according to the game(id) you give. For instance, Try: 342580")
+def recommendation_game(id_game : int):
+    return f.find_similar_games(id_game)
