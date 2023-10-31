@@ -59,4 +59,4 @@ Since github dont allow to have more than 1 GB of git LFS files, we do not inclu
 
 # Youtube video:
 
-A video explaining briefly the work done (in spanish): 
+A video explaining briefly the work done (in spanish): https://youtu.be/9L2wA51Qj2Y
