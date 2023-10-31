@@ -26,7 +26,7 @@ The complete work here:
 
 ## API development and deployement
 
-First of all, we made a virtual enviorment, we installed the libraries. Then we chose to work with FastAPI, since it's an easy coding and high performance framework to make APIs. Use the same fuctions that we made in the former process, made a presentation function with and HTML and CSS for the main page and then we run the API locally.
+First of all, we made a virtual enviorment, we installed the libraries. Then we chose to work with FastAPI, since it's an easy coding and high performance framework to make APIs. Use the same fuctions that we made in the former process, made a presentation function with and HTML and CSS for the main page and then we run the API locally (made a dockerfile for the process).
 Then we decided to work with Render, as it was sugested. Since it's a service with limitations for free users, we decided to put the API in another repository, yo can find it follow the next hyperlink:
 + [API_Repository] (https://github.com/pablorobba/API_Steam)
 For the API live deployement, go to this page: https://steamapi-h3u0.onrender.com/ (maybe it can took a bit enter to the page)
