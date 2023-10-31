@@ -16,32 +16,32 @@ Process in detail:
 
 First we made the sentiment analysis function just like was asked, and then we preparated the data for the API analysis. We made a csv for every query in the API (two in the case of one query) and cleaned them so the API can work problably.
 Further details here:
-+ [Feature_Engineering] (https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/2%20-%20Feature_%20Engineering.ipynb)
++ [Feature_Engineering](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/2%20-%20Feature_%20Engineering.ipynb)
 
 ## API fuction testing
 
 Here we made the API's functions in a jupyter notebook to taste them easily and to work with them in case of any particular problem while running the API.
 The complete work here:
-+ [API_function_testing] (https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/3%20-%20API_function_testing.ipynb)
++ [API_function_testing](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/3%20-%20API_function_testing.ipynb)
 
 ## API development and deployement
 
 First of all, we made a virtual enviorment, we installed the libraries. Then we chose to work with FastAPI, since it's an easy coding and high performance framework to make APIs. Use the same fuctions that we made in the former process, made a presentation function with and HTML and CSS for the main page and then we run the API locally (made a dockerfile for the process).
 Then we decided to work with Render, as it was sugested. Since it's a service with limitations for free users, we decided to put the API in another repository, yo can find it follow the next hyperlink:
-+ [API_Repository] (https://github.com/pablorobba/API_Steam)
++ [API_Repository](https://github.com/pablorobba/API_Steam)
 For the API live deployement, go to this page: https://steamapi-h3u0.onrender.com/ (maybe it can took a bit enter to the page)
 
 ## EDA
 
 Here we explore the dataframe that we cleaned before. We explore the data searching for outliers, relationships with the data and general information of every dataframe. We saved a combined dataframe of the previous three with the most important columns.
 Process in detail:
-+ [EDA] (https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/4%20-%20EDA.ipynb)
++ [EDA](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/4%20-%20EDA.ipynb)
 
 ## Machine learning
 
 Lastly, we made the machine learning model. We decided to make a model that recommends games based on similarities on other games. For this purpose, we use a cosine similarity model, since it works well to analyse text. Based on how it works, we have to do a final csv of the data grouped by the id of the games and with a unique column with all the other text columns combined. Finally, We made a function for an API query with the machine learning model.
 More info about the process here:
-+ [Machine_Learning] (https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/5%20-%20Machine_Learning.ipynb)
++ [Machine_Learning](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/5%20-%20Machine_Learning.ipynb)
 
 ## Uploading the repo
 
