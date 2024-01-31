@@ -8,25 +8,25 @@ We are asked to take the rol of an MLOps (Machine Learning Operations) Engineer 
  
 ## ETL
 
-We were given three datasets in a JSON format, with a lot of unnested data. We have to exploit the columns with the unnested data, look for null values, replace them, combina silimar columns with similar data, search and work with duplicated data.
+We were given three datasets in a JSON format, with a lot of unnested data. We have to exploit the columns with the unnested data, look for null values, replace them, combine similar columns with similar data, search and work with duplicated data.
 Process in detail:
 + [ETL_process](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/1%20-%20ETL_process.ipynb)
 
 ## Feature Engineering
 
-First we made the sentiment analysis function just like was asked, and then we preparated the data for the API analysis. We made a csv for every query in the API (two in the case of one query) and cleaned them so the API can work problably.
+First we made the sentiment analysis function just like was asked, and then we preparated the data for the API analysis. We made a csv for every query in the API (two in the case of one query) and cleaned them so the API can work properly.
 Further details here:
 + [Feature_Engineering](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/2%20-%20Feature_%20Engineering.ipynb)
 
 ## API fuction testing
 
-Here we made the API's functions in a jupyter notebook to taste them easily and to work with them in case of any particular problem while running the API.
+Here we made the API's functions in a jupyter notebook to test them easily and to work with them in case of any particular problem while running the API.
 The complete work here:
 + [API_function_testing](https://github.com/pablorobba/STEAM_Individual_Proyect/blob/main/3%20-%20API_function_testing.ipynb)
 
 ## API development and deployement
 
-First of all, we made a virtual enviorment, we installed the libraries. Then we chose to work with FastAPI, since it's an easy coding and high performance framework to make APIs. Use the same fuctions that we made in the former process, made a presentation function with and HTML and CSS for the main page and then we run the API locally (made a dockerfile for the process).
+First of all, we made a virtual enviorment, we installed the libraries. Then, we chose to work with FastAPI, since it's an easy coding and high performance framework to make APIs. We used the same fuctions that we made in the former process, made a presentation function with and HTML and CSS for the main page and then we run the API locally (made a dockerfile for the process).
 Then we decided to work with Render, as it was sugested. Since it's a service with limitations for free users, we decided to put the API in another repository, yo can find it follow the next hyperlink:
 + [API_Repository](https://github.com/pablorobba/API_Steam)
 For the API live deployement, go to this page: https://steamapi-h3u0.onrender.com/ (maybe it can took a bit enter to the page)
